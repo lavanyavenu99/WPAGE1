@@ -1,0 +1,2 @@
+aa.internal.DefaultHelloWorld
+aa.script.HelloWorldScriptService
